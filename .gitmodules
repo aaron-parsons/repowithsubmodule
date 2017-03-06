@@ -1,0 +1,3 @@
+[submodule "repo4DataLFS"]
+	path = repo4DataLFS
+	url = git@github.com:aaron-parsons/repo4DataLFS.git
